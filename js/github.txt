@@ -1,0 +1,13 @@
+git clone url
+git status
+
+git add to add to the stagin area
+
+
+git reset head filename
+
+git commit -m to push to local repo
+
+git remote -v
+
+git push remotename branchname
